@@ -1,3 +1,3 @@
 import functions
 
-functions.principal_greet()
+functions.main_menu()
